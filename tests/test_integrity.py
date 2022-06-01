@@ -49,7 +49,7 @@ class IntegrityTestCase(unittest.TestCase):
                 self.assertEqual(HEADER, header)
                 for i, line in enumerate(lines, start=2):
                     with self.subTest(name=path.name, line=i):
-                        self.assertEqual(N_COLUMNS, len(line), msg="unexpected number of columns: " + path.name)
+                        self.assertEqual(N_COLUMNS, len(line), msg=f"unexpected number of columns in line {i}: {path.name}")
                         old_id, date, new_id = line
                         if date:
                             self.assertRegex(date, DATE_RE)
