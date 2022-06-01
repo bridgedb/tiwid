@@ -39,6 +39,10 @@ class IntegrityTestCase(unittest.TestCase):
     def test_csv_integrity(self):
         """Test all files have the right columns."""
         for path in self.paths:
+            pattern = bioregistry.get_pattern(path.stem)
+            self.assertIsNotNone(pattern)
+            pattern_re = re.compile(pattern)
+
             with self.subTest(name=path.name), path.open() as file:
                 sep = "," if path.suffix == ".csv" else "\t"
                 lines = (line.strip().split(sep) for line in file)
@@ -50,8 +54,6 @@ class IntegrityTestCase(unittest.TestCase):
                         old_id, date, new_id = line
                         if date:
                             self.assertRegex(date, DATE_RE)
-                        pattern = bioregistry.get_pattern(path.stem)
-                        self.assertIsNotNone(pattern)
-                        self.assertRegex(old_id, pattern)
+                        self.assertRegex(old_id, pattern_re)
                         if new_id:
-                            self.assertRegex(new_id, pattern)
+                            self.assertRegex(new_id, pattern_re)
