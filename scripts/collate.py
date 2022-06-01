@@ -1,6 +1,5 @@
 """Run this script to collate the data."""
 
-from itertools import chain
 from pathlib import Path
 
 HERE = Path(__file__).parent.resolve()
@@ -15,12 +14,11 @@ HEADER = ["#prefix", "did", "when", "nextofkin"]
 def main():
     """Collate all files together."""
     rows = []
-    for path in chain(DATA.glob("*.csv"), DATA.glob("*.tsv")):
+    for path in DATA.glob("*.tsv"):
         with path.open() as file:
-            header = next(file)
-            sep = "," if "," in header else "\t"
+            _header = next(file)
             for line in file:
-                dead_id, when, alt_id = line.strip().split(sep)
+                dead_id, when, alt_id = line.strip().split("\t")
                 rows.append((path.stem, dead_id, when, alt_id))
 
     rows = sorted(rows)
