@@ -34,7 +34,7 @@ class IntegrityTestCase(unittest.TestCase):
             with self.subTest(name=path.name):
                 stem = path.stem
                 norm_stem = bioregistry.normalize_prefix(stem)
-                self.assertEqual(norm_stem, stem, msg="unnormalized file name: path")
+                self.assertEqual(norm_stem, stem, msg="unnormalized file name: " + path.name)
 
     def test_csv_integrity(self):
         """Test all files have the right columns."""
@@ -50,7 +50,7 @@ class IntegrityTestCase(unittest.TestCase):
                 self.assertEqual(HEADER, header)
                 for i, line in enumerate(lines, start=2):
                     with self.subTest(name=path.name, line=i):
-                        self.assertEqual(N_COLUMNS, len(line))
+                        self.assertEqual(N_COLUMNS, len(line), msg="unexpected number of columns: " + path.name)
                         old_id, date, new_id = line
                         if date:
                             self.assertRegex(date, DATE_RE)
