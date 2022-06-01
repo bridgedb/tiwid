@@ -93,12 +93,12 @@ hmdb	HMDB0013673		HMDB0001934
 hmdb	HMDB0013697		HMDB0001934
 hmdb	HMDB0014330		HMDB0001934
 lipidmaps	LMST04030250		LMST04030247
-pubchem	25203785		6409687
-pubchem	2818		135398737
-pubchem	329970432		
-pubchem	329970434		
-pubchem	329970435		
-pubchem	6006		135403648
+pubchem.compound	25203785		6409687
+pubchem.compound	2818		135398737
+pubchem.compound	329970432		
+pubchem.compound	329970434		
+pubchem.compound	329970435		
+pubchem.compound	6006		135403648
 uniprot	B3KP27		P15408
 uniprot	B5MEC1		
 uniprot	B5MEC1		
@@ -128,6 +128,7 @@ wikipathways	WP2771
 wikipathways	WP2785		
 wikipathways	WP3017		
 wikipathways	WP3107		
+wikipathways	WP311	2022-05-31	WP5175
 wikipathways	WP3383	2020-11-02	WP5022
 wikipathways	WP3573		
 wikipathways	WP3607		
