@@ -20,10 +20,7 @@ def main():
             header = next(file)
             sep = "," if "," in header else "\t"
             for line in file:
-                line = line.strip()
-                if not line:  # TODO remove after instituting data integrity tests
-                    continue
-                dead_id, when, alt_id = line.split(sep)
+                dead_id, when, alt_id = line.strip().split(sep)
                 rows.append((path.stem, dead_id, when, alt_id))
 
     rows = sorted(rows)
