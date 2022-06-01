@@ -20,3 +20,5 @@ the file is a comma-separated values file with one or more columns:
 * nextofkin: the identifier that replaces the identifier (for some reason)
 
 This model is incomplete and volatile, but applies to Release 1.
+
+A collation of all curations can be found in [`artifacts/collated.tsv`](artifacts/collated.tsv).
