@@ -23,7 +23,6 @@ class IntegrityTestCase(unittest.TestCase):
         """Set up the test case by finding all CSV and TSV files."""
         self.paths = list(
             chain(
-                DATA.glob("*.csv"),
                 DATA.glob("*.tsv"),
             )
         )
@@ -44,7 +43,7 @@ class IntegrityTestCase(unittest.TestCase):
             pattern_re = re.compile(pattern)
 
             with self.subTest(name=path.name), path.open() as file:
-                sep = "," if path.suffix == ".csv" else "\t"
+                sep = "\t"
                 lines = (line.strip().split(sep) for line in file)
                 header = next(lines)
                 self.assertEqual(HEADER, header)
