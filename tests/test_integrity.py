@@ -13,15 +13,18 @@ EXTENSION = "csv"
 HEADER = ["#did", "when", "nextofkin"]
 N_COLUMNS = len(HEADER)
 
+
 class IntegrityTestCase(unittest.TestCase):
     """Data integrity tests."""
 
     def setUp(self) -> None:
         """Set up the test case by finding all CSV and TSV files."""
-        self.paths = list(chain(
-            DATA.glob("*.csv"),
-            DATA.glob("*.tsv"),
-        ))
+        self.paths = list(
+            chain(
+                DATA.glob("*.csv"),
+                DATA.glob("*.tsv"),
+            )
+        )
 
     def test_path_names(self):
         """Check all file names use standard prefixes."""
