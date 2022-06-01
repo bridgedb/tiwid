@@ -20,3 +20,12 @@ the file is a comma-separated values file with one or more columns:
 * nextofkin: the identifier that replaces the identifier (for some reason)
 
 This model is incomplete and volatile, but applies to Release 1.
+
+## Tests
+
+Run tests using `tox` with the following commands in the shell:
+
+```shell
+$ pip install tox
+$ tox
+```
