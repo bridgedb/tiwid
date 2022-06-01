@@ -35,24 +35,38 @@ class IntegrityTestCase(unittest.TestCase):
     def test_csv_integrity(self):
         """Test all files have the right columns."""
         for path in self.paths:
-            pattern = bioregistry.get_pattern(path.stem)
+            prefix = path.stem
+            pattern = bioregistry.get_pattern(prefix)
             self.assertIsNotNone(pattern)
             pattern_re = re.compile(pattern)
 
             with self.subTest(name=path.name), path.open() as file:
-                lines = (line.strip("\n").split("\t") for line in file)
-                header = next(lines)
+                header = next(file).strip("\n").split("\t")
                 self.assertEqual(HEADER, header)
-                for i, line in enumerate(lines, start=2):
+                for i, line in enumerate(file, start=2):
                     with self.subTest(name=path.name, line=i):
+                        line = line.strip("\n")
                         self.assertEqual(
-                            N_COLUMNS,
-                            len(line),
-                            msg=f"unexpected number of columns in line {i}: {path.name}",
+                            line.strip(" "),
+                            line,
+                            msg=f"{path.name} had trailing whitespace on line {i}",
                         )
-                        old_id, date, new_id = line
+                        try:
+                            old_id, date, new_id = line.split("\t")
+                        except ValueError:
+                            self.fail(
+                                f"{path.name} had wrong number of columns on line {i}"
+                            )
                         if date:
                             self.assertRegex(date, DATE_RE)
-                        self.assertRegex(old_id, pattern_re)
+                        self.assertRegex(
+                            old_id,
+                            pattern_re,
+                            msg=f"{path.name} line {i} had invalid did",
+                        )
                         if new_id:
-                            self.assertRegex(new_id, pattern_re)
+                            self.assertRegex(
+                                new_id,
+                                pattern_re,
+                                msg=f"{path.name} line {i} had invalid nextofkin",
+                            )
