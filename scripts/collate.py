@@ -18,7 +18,7 @@ def main():
         with path.open() as file:
             _header = next(file)
             for line in file:
-                dead_id, when, alt_id = line.strip().split("\t")
+                dead_id, when, alt_id = line.strip("\n").split("\t")
                 rows.append((path.stem, dead_id, when, alt_id))
 
     rows = sorted(rows)
