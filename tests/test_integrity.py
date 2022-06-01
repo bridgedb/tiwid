@@ -44,7 +44,7 @@ class IntegrityTestCase(unittest.TestCase):
 
             with self.subTest(name=path.name), path.open() as file:
                 sep = "\t"
-                lines = (line.strip().split(sep) for line in file)
+                lines = (line.strip(" \n\r").split(sep) for line in file)
                 header = next(lines)
                 self.assertEqual(HEADER, header)
                 for i, line in enumerate(lines, start=2):
