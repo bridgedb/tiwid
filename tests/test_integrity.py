@@ -40,7 +40,7 @@ class IntegrityTestCase(unittest.TestCase):
             pattern_re = re.compile(pattern)
 
             with self.subTest(name=path.name), path.open() as file:
-                lines = (line.strip().split("\t") for line in file)
+                lines = (line.strip("\n").split("\t") for line in file)
                 header = next(lines)
                 self.assertEqual(HEADER, header)
                 for i, line in enumerate(lines, start=2):
