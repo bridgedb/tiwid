@@ -21,6 +21,8 @@ the file is a comma-separated values file with one or more columns:
 
 This model is incomplete and volatile, but applies to Release 1.
 
+A collation of all curations can be found in [`artifacts/collated.tsv`](artifacts/collated.tsv).
+
 ## Tests
 
 Run tests using `tox` with the following commands in the shell:
