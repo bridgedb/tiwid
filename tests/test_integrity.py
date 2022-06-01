@@ -10,7 +10,6 @@ import bioregistry
 HERE = Path(__file__).parent.resolve()
 ROOT = HERE.parent.resolve()
 DATA = ROOT.joinpath("data")
-EXTENSION = "csv"
 HEADER = ["#did", "when", "nextofkin"]
 N_COLUMNS = len(HEADER)
 DATE_RE = re.compile("^\\d{4}-\\d{2}-\\d{2}")
@@ -21,11 +20,7 @@ class IntegrityTestCase(unittest.TestCase):
 
     def setUp(self) -> None:
         """Set up the test case by finding all CSV and TSV files."""
-        self.paths = list(
-            chain(
-                DATA.glob("*.tsv"),
-            )
-        )
+        self.paths = list(DATA.glob("*.tsv"))
 
     def test_path_names(self):
         """Check all file names use standard prefixes."""
@@ -33,7 +28,9 @@ class IntegrityTestCase(unittest.TestCase):
             with self.subTest(name=path.name):
                 stem = path.stem
                 norm_stem = bioregistry.normalize_prefix(stem)
-                self.assertEqual(norm_stem, stem, msg="unnormalized file name: " + path.name)
+                self.assertEqual(
+                    norm_stem, stem, msg=f"unnormalized file name: {path.name}"
+                )
 
     def test_csv_integrity(self):
         """Test all files have the right columns."""
@@ -43,13 +40,16 @@ class IntegrityTestCase(unittest.TestCase):
             pattern_re = re.compile(pattern)
 
             with self.subTest(name=path.name), path.open() as file:
-                sep = "\t"
-                lines = (line.strip(" \n\r").split(sep) for line in file)
+                lines = (line.strip().split("\t") for line in file)
                 header = next(lines)
                 self.assertEqual(HEADER, header)
                 for i, line in enumerate(lines, start=2):
                     with self.subTest(name=path.name, line=i):
-                        self.assertEqual(N_COLUMNS, len(line), msg=f"unexpected number of columns in line {i}: {path.name}")
+                        self.assertEqual(
+                            N_COLUMNS,
+                            len(line),
+                            msg=f"unexpected number of columns in line {i}: {path.name}",
+                        )
                         old_id, date, new_id = line
                         if date:
                             self.assertRegex(date, DATE_RE)
