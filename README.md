@@ -31,3 +31,8 @@ Run tests using `tox` with the following commands in the shell:
 $ pip install tox
 $ tox
 ```
+
+The tests are also run using GitHub Actions following all commits to the main branch
+and pull requests to the main branch.
+
+[![Tests](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml/badge.svg)](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml)
