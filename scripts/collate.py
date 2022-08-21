@@ -2,12 +2,17 @@
 
 from pathlib import Path
 
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+
 HERE = Path(__file__).parent.resolve()
 ROOT = HERE.parent.resolve()
 DATA = ROOT.joinpath("data")
 ARTIFACTS = ROOT.joinpath("artifacts")
 ARTIFACTS.mkdir(exist_ok=True, parents=True)
 OUTPUT_PATH = ARTIFACTS.joinpath("collated.tsv")
+SUMMARY_SVG_PATH = ARTIFACTS.joinpath("summary.svg")
 HEADER = ["#prefix", "did", "when", "nextofkin"]
 
 
@@ -27,6 +32,15 @@ def main():
         print(*HEADER, sep="\t", file=file)
         for row in rows:
             print(*row, sep="\t", file=file)
+
+    df = pd.DataFrame(rows, columns=["prefix", "dead_id", "date", "alternative_id"])
+    fig, ax = plt.subplots(figsize=(6, 3))
+    sns.histplot(data=df, y="prefix", ax=ax)
+    ax.set_ylabel("")
+    # ax.set_xscale("log")
+    ax.set_xlabel("Dead Identifiers")
+    fig.tight_layout()
+    fig.savefig(SUMMARY_SVG_PATH)
 
 
 if __name__ == "__main__":

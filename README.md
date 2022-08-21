@@ -9,6 +9,10 @@ If you use this data, please cite:
 
 [![DOI](https://zenodo.org/badge/334110717.svg)](https://zenodo.org/badge/latestdoi/334110717)
 
+The following is a short summary of the contents of this resource:
+
+![](artifacts/summary.svg)
+
 ## Data
 
 The data in the `data` folder is structured like as follows. Filenames follow the namespace of
