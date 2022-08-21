@@ -1,4 +1,5 @@
 [![Tests](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml/badge.svg)](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml)
+[![DOI](https://zenodo.org/badge/334110717.svg)](https://zenodo.org/badge/latestdoi/334110717)
 
 # This is where identifiers die
 
