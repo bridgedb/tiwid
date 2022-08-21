@@ -8,10 +8,6 @@ in the corresponding database. As such, these identifiers should no longer be us
 them in a machine readable way, we can make it easier to automate the detection of dead identifiers
 in data curation workflows.
 
-If you use this data, please cite: 
-
-[![DOI](https://zenodo.org/badge/334110717.svg)](https://zenodo.org/badge/latestdoi/334110717)
-
 The following is a short summary of the contents of this resource:
 
 ![](artifacts/summary.svg)
