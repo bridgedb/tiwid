@@ -1,3 +1,5 @@
+[![Tests](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml/badge.svg)](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml)
+
 # This is where identifiers die
 
 This project collects identifiers that are, for some reason, no longer pointing to active records
@@ -38,5 +40,3 @@ $ tox
 
 The tests are also run using GitHub Actions following all commits to the main branch
 and pull requests to the main branch.
-
-[![Tests](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml/badge.svg)](https://github.com/bridgedb/tiwid/actions/workflows/qa.yml)
