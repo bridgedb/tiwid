@@ -37,7 +37,7 @@ def main():
     fig, ax = plt.subplots(figsize=(6, 3))
     sns.histplot(data=df, y="prefix", ax=ax)
     ax.set_ylabel("")
-    # ax.set_xscale("log")
+    ax.set_xscale("log")
     ax.set_xlabel("Dead Identifiers")
     fig.tight_layout()
     fig.savefig(SUMMARY_SVG_PATH)
