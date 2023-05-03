@@ -51,7 +51,8 @@ class IntegrityTestCase(unittest.TestCase):
                 pattern,
                 msg=f"The Bioregistry does not contain a regular expression pattern for validating identifiers "
                 f"from {prefix}. Please consider submitting an issue on the Bioregistry to add one at "
-                "https://github.com/biopragmatics/bioregistry/issues.",
+                f"https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=Regex%2C"
+                f"Update&template=update-regex.yml&title=Update+regular+expression+pattern+for+%5B{prefix}%5D.",
             )
             pattern_re = re.compile(pattern)
 
