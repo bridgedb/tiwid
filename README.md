@@ -18,9 +18,9 @@ The data in the `data` folder is structured like as follows. Filenames follow th
 the resources as defined by identifiers.org and used in compact identifiers. The content of
 the file is a comma-separated values file with one or more columns:
 
-* did: the dead identifier
-* when: when the identifier stopped being used
-* nextofkin: the identifier that replaces the identifier (for some reason)
+* `#did`: the dead identifier
+* `when`: when the identifier stopped being used
+* `nextofkin`: the identifier that replaces the identifier (for some reason)
 
 This model is incomplete and volatile, but applies to Release 1.
 
