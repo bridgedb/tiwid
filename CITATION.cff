@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this data, please cite it as below."
 title: BridgeDb Tiwid
 url: "https://github.com/bridgedb/tiwid"
-doi: 10.5281/zenodo.5763748
-version: 2
-date-released: 2021-12-07
+doi: 10.5281/zenodo.4479409
+version: 3
+date-released: 2024-10-01
 authors:
   - family-names: Willighagen
     given-names: Egon
@@ -16,3 +16,5 @@ authors:
     given-names: Tooba
   - family-names: Conroy
     given-names: Matthew
+  - family-names: Martinat
+    given-names: Dominik
