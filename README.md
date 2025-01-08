@@ -21,6 +21,7 @@ the file is a comma-separated values file with one or more columns:
 * `#did`: the dead identifier
 * `when`: when the identifier stopped being used
 * `nextofkin`: the identifier that replaces the identifier (for some reason)
+* `contributor`: (optional) the ORCID identifier of the curator for the death/replacement
 
 This model is incomplete and volatile, but applies to Release 1.
 
