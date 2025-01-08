@@ -1,5 +1,6 @@
 """Run this script to collate the data."""
 
+import csv
 from pathlib import Path
 
 import bioregistry
@@ -21,7 +22,7 @@ TITLE = "This Is Where Identifiers Die"
 URI_PATH_STEM = "https://github.com/bridgedb/tiwid/raw/refs/heads/main/artifacts"
 
 SUMMARY_SVG_PATH = ARTIFACTS.joinpath("summary.svg")
-HEADER = ["#prefix", "did", "when", "nextofkin"]
+HEADER = ["#prefix", "did", "when", "nextofkin", "contributor"]
 
 # See https://mapping-commons.github.io/sssom/
 SSSOM_PATH = ARTIFACTS.joinpath("tiwid.sssom.tsv")
@@ -31,10 +32,16 @@ SSSOM_HEADER = [
     "object_id",
     "mapping_justification",
     "mapping_date",
+    "author_id",
 ]
+
+orcid_namespace = rdflib.Namespace("https://orcid.org/")
 
 iao_namespace = rdflib.Namespace("http://purl.obolibrary.org/obo/IAO_")
 replaced_by_uri = iao_namespace["0100001"]
+
+ncbitaxon_namespace = rdflib.Namespace("http://purl.obolibrary.org/obo/NCBITaxon_")
+human = ncbitaxon_namespace["9606"]
 
 ontology_uri = URIRef(f"{URI_PATH_STEM}/{TTL_PATH.name}")
 
@@ -43,12 +50,15 @@ def main():
     """Collate all files together."""
     graph = rdflib.Graph()
     graph.bind("IAO", iao_namespace)
+    graph.bind("orcid", orcid_namespace)
+    graph.bind("ncbitaxon", ncbitaxon_namespace)
     graph.add((ontology_uri, RDF.type, OWL.Ontology))
     graph.add((ontology_uri, DCTERMS.title, Literal(TITLE)))
     graph.add((ontology_uri, FOAF.homepage, URIRef("https://github.com/bridgedb/tiwid")))
     graph.add((replaced_by_uri, RDF.type, OWL.AnnotationProperty))
     graph.add((replaced_by_uri, RDFS.label, Literal("term replaced by")))
 
+    contributor_orcid_set: set[str] = set()
     rows = []
     sssom_rows = []
     sssom_prefixes = [("IAO", iao_namespace)]
@@ -64,10 +74,16 @@ def main():
         sssom_prefixes.append((prefix, uri_prefix))
 
         with path.open() as file:
-            _header = next(file)
-            for line in file:
-                dead_id, when, alt_id = line.strip("\n").split("\t")
-                rows.append((path.stem, dead_id, when, alt_id))
+            reader = csv.DictReader(file, delimiter="\t")
+            for record in reader:
+                dead_id = record["#did"]
+                when = record["when"]
+                alt_id = record["nextofkin"]
+                # this is a "get" because contributor is an optional column
+                contributor_orcid = record.get("contributor", "")
+                if contributor_orcid:
+                    contributor_orcid_set.add(contributor_orcid)
+                rows.append((path.stem, dead_id, when, alt_id, contributor_orcid))
 
                 # If there's an explicitly defined alternate ID,
                 # we can generate triples in SSSOM and RDF/OWL
@@ -79,6 +95,7 @@ def main():
                             f"{prefix}:{alt_id}",
                             "semapv:ManualMappingCuration",
                             when,
+                            contributor_orcid and f"orcid:{contributor_orcid}",
                         )
                     )
 
@@ -89,13 +106,22 @@ def main():
                     graph.add((source, replaced_by_uri, target))
                     graph.add((source, RDF.type, OWL.Class))
                     graph.add((target, RDF.type, OWL.Class))
-                    if when:
+                    if when or contributor_orcid:
                         axiom = rdflib.BNode()
                         graph.add((axiom, RDF.type, OWL.Axiom))
                         graph.add((axiom, OWL.annotatedSource, source))
                         graph.add((axiom, OWL.annotatedProperty, replaced_by_uri))
                         graph.add((axiom, OWL.annotatedTarget, target))
-                        graph.add((axiom, DCTERMS.date, Literal(when, datatype=XSD.date)))
+                        if when:
+                            graph.add((axiom, DCTERMS.date, Literal(when, datatype=XSD.date)))
+                        if contributor_orcid:
+                            graph.add((axiom, DCTERMS.contributor, orcid_namespace[contributor_orcid]))
+
+    graph.add((human, RDF.type, OWL.Class))
+    graph.add((human, RDFS.label, Literal("human")))
+    for contributor_orcid in contributor_orcid_set:
+        graph.add((orcid_namespace[contributor_orcid], RDF.type, human))
+        graph.add((ontology_uri, DCTERMS.contributor, orcid_namespace[contributor_orcid]))
 
     graph.serialize(TTL_PATH)
 
@@ -118,7 +144,7 @@ def main():
         for row in sssom_rows:
             print(*row, sep="\t", file=file)
 
-    df = pd.DataFrame(rows, columns=["prefix", "dead_id", "date", "alternative_id"])
+    df = pd.DataFrame(rows, columns=["prefix", "dead_id", "date", "alternative_id", "contributor"])
     fig, ax = plt.subplots(figsize=(6, 3))
     sns.histplot(data=df, y="prefix", ax=ax)
     ax.set_ylabel("")
