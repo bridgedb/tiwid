@@ -10,8 +10,10 @@ HERE = Path(__file__).parent.resolve()
 ROOT = HERE.parent.resolve()
 DATA = ROOT.joinpath("data")
 HEADER = ["#did", "when", "nextofkin"]
+HEADER_EXT = ["#did", "when", "nextofkin", "contributor"]
 N_COLUMNS = len(HEADER)
 DATE_RE = re.compile("^\\d{4}-\\d{2}-\\d{2}")
+ORCID_RE = re.compile("^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$")
 
 
 class IntegrityTestCase(unittest.TestCase):
@@ -57,7 +59,12 @@ class IntegrityTestCase(unittest.TestCase):
 
             with self.subTest(name=path.name), path.open() as file:
                 header = next(file).strip("\n").split("\t")
-                self.assertEqual(HEADER, header)
+                if header == HEADER:
+                    has_contributor = False
+                elif header == HEADER_EXT:
+                    has_contributor = True
+                else:
+                    self.fail(f"invalid header: {header}")
                 for i, line in enumerate(file, start=2):
                     with self.subTest(name=path.name, line=i):
                         line = line.strip("\n")
@@ -66,10 +73,18 @@ class IntegrityTestCase(unittest.TestCase):
                             line,
                             msg=f"{path.name} had trailing whitespace on line {i}",
                         )
-                        try:
-                            old_id, date, new_id = line.split("\t")
-                        except ValueError:
-                            self.fail(f"{path.name} had wrong number of columns on line {i}")
+                        parts = line.split("\t")
+                        if has_contributor:
+                            self.assertEqual(
+                                4, len(parts), msg=f"{path.name} line {i} expected to have 4 columns, got {len(parts)}"
+                            )
+                            old_id, date, new_id, contributor_orcid = parts
+                        else:
+                            self.assertEqual(
+                                3, len(parts), msg=f"{path.name} line {i} expected to have 3 columns, got {len(parts)}"
+                            )
+                            old_id, date, new_id = parts
+                            contributor_orcid = ""
                         if date:
                             self.assertRegex(date, DATE_RE)
                         self.assertRegex(
@@ -82,4 +97,10 @@ class IntegrityTestCase(unittest.TestCase):
                                 new_id,
                                 pattern_re,
                                 msg=f"{path.name} line {i} had invalid nextofkin",
+                            )
+                        if contributor_orcid:
+                            self.assertRegex(
+                                contributor_orcid,
+                                ORCID_RE,
+                                msg=f"{path.name} line {i} had invalid ORCID identifier",
                             )
