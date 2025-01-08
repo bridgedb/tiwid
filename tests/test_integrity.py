@@ -2,7 +2,6 @@
 
 import re
 import unittest
-from itertools import chain
 from pathlib import Path
 
 import bioregistry
@@ -70,9 +69,7 @@ class IntegrityTestCase(unittest.TestCase):
                         try:
                             old_id, date, new_id = line.split("\t")
                         except ValueError:
-                            self.fail(
-                                f"{path.name} had wrong number of columns on line {i}"
-                            )
+                            self.fail(f"{path.name} had wrong number of columns on line {i}")
                         if date:
                             self.assertRegex(date, DATE_RE)
                         self.assertRegex(
