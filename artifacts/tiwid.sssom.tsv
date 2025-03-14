@@ -15,7 +15,7 @@
 #   pmc: http://europepmc.org/articles/
 #   ppr: https://europepmc.org/article/ppr/
 #   pubchem.compound: https://pubchem.ncbi.nlm.nih.gov/compound/
-#   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/
+#   pubmed: https://bioregistry.io/pubmed:
 #   uniprot: http://purl.uniprot.org/uniprot/
 #   wikidata: http://www.wikidata.org/entity/
 #   wikipathways: http://www.wikipathways.org/instance/
@@ -72,6 +72,7 @@ cas:50885-87-5	IAO:0100001	cas:117-81-7	semapv:ManualMappingCuration
 cas:51004-46-7	IAO:0100001	cas:35554-44-0	semapv:ManualMappingCuration		
 cas:51253-31-7	IAO:0100001	cas:79-94-7	semapv:ManualMappingCuration		
 cas:607374-50-5	IAO:0100001	cas:117-81-7	semapv:ManualMappingCuration		
+cas:64658-56-6	IAO:0100001	cas:14913-33-8	semapv:ManualMappingCuration		
 cas:725200-57-7	IAO:0100001	cas:1333-74-0	semapv:ManualMappingCuration		
 cas:7300-23-4	IAO:0100001	cas:79-94-7	semapv:ManualMappingCuration		
 cas:73790-28-0	IAO:0100001	cas:35554-44-0	semapv:ManualMappingCuration		
@@ -79,6 +80,7 @@ cas:75881-82-2	IAO:0100001	cas:60207-90-1	semapv:ManualMappingCuration
 cas:76341-26-9	IAO:0100001	cas:79-94-7	semapv:ManualMappingCuration		
 cas:8033-53-2	IAO:0100001	cas:117-81-7	semapv:ManualMappingCuration		
 cas:80443-41-0	IAO:0100001	cas:107534-96-3	semapv:ManualMappingCuration		
+cas:82847-81-2	IAO:0100001	cas:14913-33-8	semapv:ManualMappingCuration		
 cas:98112-32-4	IAO:0100001	cas:13674-84-5	semapv:ManualMappingCuration		
 ensembl:ENSG00000011177	IAO:0100001	ensembl:ENSG00000011177.5	semapv:ManualMappingCuration		
 ensembl:ENSG00000079782	IAO:0100001	ensembl:ENSG00000079782.8	semapv:ManualMappingCuration		
