@@ -8,8 +8,10 @@ date-released: 2025-07-31
 authors:
   - family-names: Willighagen
     given-names: Egon
+    orcid: 0000-0001-7542-0286
   - family-names: Slenter
     given-names: Denise
+    orcid: 0000-0001-8449-1318
   - family-names: Hoyt
     given-names: Charles Tapley
   - family-names: Abbassi-Daloii
@@ -20,3 +22,4 @@ authors:
     given-names: Dominik
   - family-names: Javier
     given-names: Millán Acosta
+    orcid: 0000-0002-4166-7093
