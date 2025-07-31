@@ -13,7 +13,7 @@ HEADER = ["#did", "when", "nextofkin"]
 HEADER_EXT = ["#did", "when", "nextofkin", "contributor"]
 N_COLUMNS = len(HEADER)
 DATE_RE = re.compile("^\\d{4}-\\d{2}-\\d{2}")
-ORCID_RE = re.compile("^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$")
+ORCID_RE = re.compile("^\\d{4}-\\d{4}-\\d{4}-\\d{3}(\\d|X)$")
 
 
 class IntegrityTestCase(unittest.TestCase):
