@@ -42161,6 +42161,21 @@ pubmed:11331091 a owl:Class ;
 pubmed:33093177 a owl:Class ;
     IAO:0100001 pubmed:33454021 .
 
+cas:102188-45-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:103939-37-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:105269-88-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:106152-98-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:107231-62-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:107719-55-1 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
 
@@ -42173,8 +42188,23 @@ cas:109630-52-6 a owl:Class ;
 cas:110670-65-0 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
 
+cas:11098-16-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:11103-60-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:11107-93-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:11129-24-1 a owl:Class ;
     IAO:0100001 cas:606-59-7 .
+
+cas:111623-62-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:112509-36-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:1135441-05-2 a owl:Class ;
     IAO:0100001 cas:35554-44-0 .
@@ -42182,8 +42212,32 @@ cas:1135441-05-2 a owl:Class ;
 cas:1135441-15-4 a owl:Class ;
     IAO:0100001 cas:60207-90-1 .
 
+cas:114101-89-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:1163687-50-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:116711-78-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:1202388-20-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:1202388-26-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:123019-34-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:123066-82-0 a owl:Class ;
     IAO:0100001 cas:107534-96-3 .
+
+cas:123068-21-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:124057-60-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:124779-54-0 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
@@ -42197,17 +42251,41 @@ cas:1256343-09-5 a owl:Class ;
 cas:126639-29-0 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
 
+cas:12767-68-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:12768-48-8 a owl:Class ;
     IAO:0100001 cas:2921-88-2 .
 
+cas:12789-12-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:12790-67-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:131891-38-8 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
+
+cas:137263-06-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:137718-37-7 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
 
 cas:138454-81-6 a owl:Class ;
     IAO:0100001 cas:29658-26-2 .
+
+cas:139281-67-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:141490-14-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:142985-89-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:143929-07-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:152175-96-7 a owl:Class ;
     IAO:0100001 cas:12184-96-2 .
@@ -42221,11 +42299,23 @@ cas:153012-39-6 a owl:Class ;
 cas:155313-22-7 a owl:Class ;
     IAO:0100001 cas:12596-15-5 .
 
+cas:167140-06-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:16839-32-0 a owl:Class ;
     IAO:0100001 cas:13674-84-5 .
 
+cas:172521-16-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:17879-93-5 a owl:Class ;
     IAO:0100001 cas:96-83-3 .
+
+cas:1809431-45-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:1809431-82-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:181591-67-3 a owl:Class ;
     IAO:0100001 cas:60207-90-1 .
@@ -42233,8 +42323,29 @@ cas:181591-67-3 a owl:Class ;
 cas:186673-39-2 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
 
+cas:188612-23-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:190856-87-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:1943678-94-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:202936-22-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:205180-59-2 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
+
+cas:205577-03-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:2091900-73-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:2096976-67-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:2103217-17-8 a owl:Class ;
     IAO:0100001 cas:60207-90-1 .
@@ -42242,17 +42353,110 @@ cas:2103217-17-8 a owl:Class ;
 cas:224951-26-2 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
 
+cas:226225-58-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:226225-59-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:2270854-18-5 a owl:Class ;
     IAO:0100001 cas:60433-72-9 .
+
+cas:2323620-11-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:2332812-08-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:2374796-33-3 a owl:Class ;
     IAO:0100001 cas:19774-82-4 .
 
+cas:2408592-97-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:25640-88-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:27288-14-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:275818-89-8 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
 
+cas:28136-10-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:286015-24-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:286015-28-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:29594-36-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:30496-13-0 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
+
+cas:30676-83-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:32196-52-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:37187-23-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:37210-94-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:37230-99-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:37280-80-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:37291-67-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:37336-52-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:376647-33-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39289-57-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39316-45-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39316-73-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39346-85-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39373-71-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39392-83-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39393-36-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39421-49-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39453-05-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39454-98-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:39475-46-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:39475-55-3 a owl:Class ;
     IAO:0100001 cas:2921-88-2 .
@@ -42260,26 +42464,197 @@ cas:39475-55-3 a owl:Class ;
 cas:40120-69-2 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
 
+cas:42617-03-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:441352-55-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:441352-56-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:441352-57-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:441352-58-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:441352-59-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:476648-89-2 a owl:Class ;
     IAO:0100001 cas:135319-73-2 .
+
+cas:50855-29-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:50885-87-5 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
 
+cas:509171-19-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:50934-84-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:51004-46-7 a owl:Class ;
     IAO:0100001 cas:35554-44-0 .
+
+cas:51059-97-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:51253-31-7 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
 
+cas:51609-19-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:51668-51-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:51938-59-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:51938-60-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52012-43-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52038-46-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52051-49-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52434-07-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52440-03-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52440-78-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52440-94-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52504-18-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52504-19-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:52683-07-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:53125-17-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:53529-49-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:53663-55-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:53763-35-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:53763-36-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:54174-36-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:54985-54-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:55126-80-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:55838-69-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:56590-96-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:57308-02-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:57571-69-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:59330-69-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:60098-67-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:60476-27-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:607374-50-5 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
+
+cas:61614-07-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:61840-55-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:62169-44-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:62229-21-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:62229-24-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:62229-29-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:623588-93-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:63440-03-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:63798-88-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:64296-14-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:64658-56-6 a owl:Class ;
     IAO:0100001 cas:14913-33-8 .
 
+cas:64940-97-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:65035-40-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:65035-41-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:65777-14-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:66525-84-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:67053-58-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:725200-57-7 a owl:Class ;
     IAO:0100001 cas:1333-74-0 .
+
+cas:72847-44-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:72847-45-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:7300-23-4 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
@@ -42287,23 +42662,95 @@ cas:7300-23-4 a owl:Class ;
 cas:73790-28-0 a owl:Class ;
     IAO:0100001 cas:35554-44-0 .
 
+cas:74434-41-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:74656-63-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:74749-71-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:75881-82-2 a owl:Class ;
     IAO:0100001 cas:60207-90-1 .
+
+cas:75882-09-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:76341-26-9 a owl:Class ;
     IAO:0100001 cas:79-94-7 .
 
+cas:76829-05-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:77271-60-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:8033-53-2 a owl:Class ;
     IAO:0100001 cas:117-81-7 .
+
+cas:80341-59-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 cas:80443-41-0 a owl:Class ;
     IAO:0100001 cas:107534-96-3 .
 
+cas:80966-32-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:81296-82-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:82847-81-2 a owl:Class ;
     IAO:0100001 cas:14913-33-8 .
 
+cas:83271-48-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:874461-43-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:9021-03-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:90452-81-6 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:9067-50-9 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:93095-76-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:933050-99-8 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:942205-98-3 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:95828-59-4 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:96231-61-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:96957-64-1 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:96958-17-7 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:96958-28-0 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
 cas:98112-32-4 a owl:Class ;
     IAO:0100001 cas:13674-84-5 .
+
+cas:99402-83-2 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
+
+cas:99531-82-5 a owl:Class ;
+    IAO:0100001 cas:9016-45-9 .
 
 <https://github.com/bridgedb/tiwid/raw/refs/heads/main/artifacts/tiwid.ttl> a owl:Ontology ;
     dcterms:contributor orcid:0000-0001-7542-0286,
@@ -67520,110 +67967,16 @@ hmdb:HMDB0001934 a owl:Class .
 
 wikidata:Q879 a owl:Class .
 
+cas:9016-45-9 a owl:Class .
+
 IAO:0100001 a owl:AnnotationProperty ;
     rdfs:label "term replaced by" .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-08-04"^^xsd:date ;
+    dcterms:date "2021-02-17"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST01080077 ;
-    owl:annotatedTarget lipidmaps:LMST01080006 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-06-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP4929 ;
-    owl:annotatedTarget wikipathways:WP4928 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-08-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource pubchem.compound:169508 ;
-    owl:annotatedTarget pubchem.compound:135398702 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470931 ;
-    owl:annotatedTarget molmedb:MM00098 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:TWISTNB ;
-    owl:annotatedTarget hgnc.symbol:POLR1F .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470917 ;
-    owl:annotatedTarget molmedb:MM00597 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-29"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST01010091 ;
-    owl:annotatedTarget lipidmaps:LMST01010148 .
-
-[] a owl:Axiom ;
-    dcterms:date "2019-07-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA08030027 ;
-    owl:annotatedTarget lipidmaps:LMFA08030002 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011122 ;
-    owl:annotatedTarget lipidmaps:LMFA07090072 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011119 ;
-    owl:annotatedTarget lipidmaps:LMFA07090069 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-10-25"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGL00000146 ;
-    owl:annotatedTarget lipidmaps:LMGL06010003 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-04-29"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGP01050137 ;
-    owl:annotatedTarget lipidmaps:LMGP01050035 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07010014 ;
-    owl:annotatedTarget lipidmaps:LMFA07090147 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-12-09"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12010111 ;
-    owl:annotatedTarget lipidmaps:LMPK12010452 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-04"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM467580 ;
-    owl:annotatedTarget molmedb:MM01370 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-01-04"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12112233 ;
-    owl:annotatedTarget lipidmaps:LMPK12112193 .
-
-[] a owl:Axiom ;
-    dcterms:date "2024-08-08"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP4629 ;
-    owl:annotatedTarget wikipathways:WP4628 .
+    owl:annotatedSource molmedb:MM467581 ;
+    owl:annotatedTarget molmedb:MM17421 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-08-07"^^xsd:date ;
@@ -67632,46 +67985,34 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget lipidmaps:LMFA07090159 .
 
 [] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK03000036 ;
+    owl:annotatedTarget lipidmaps:LMPK03000094 .
+
+[] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470939 ;
-    owl:annotatedTarget molmedb:MM00335 .
+    owl:annotatedSource molmedb:MM470931 ;
+    owl:annotatedTarget molmedb:MM00098 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-10-25"^^xsd:date ;
+    dcterms:date "2021-01-26"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGL00000148 ;
-    owl:annotatedTarget lipidmaps:LMGL06010005 .
+    owl:annotatedSource molmedb:MM133940 ;
+    owl:annotatedTarget molmedb:MM16896 .
 
 [] a owl:Axiom ;
-    dcterms:date "2020-04-16"^^xsd:date ;
+    dcterms:date "2020-08-07"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011149 ;
-    owl:annotatedTarget lipidmaps:LMFA07090099 .
+    owl:annotatedSource lipidmaps:LMFA07010690 ;
+    owl:annotatedTarget lipidmaps:LMFA07090152 .
 
 [] a owl:Axiom ;
-    dcterms:date "2020-08-08"^^xsd:date ;
+    dcterms:date "2021-02-03"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011105 ;
-    owl:annotatedTarget lipidmaps:LMFA07090155 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA05000723 ;
-    owl:annotatedTarget lipidmaps:LMFA05000732 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:TMEM206 ;
-    owl:annotatedTarget hgnc.symbol:PACC1 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011129 ;
-    owl:annotatedTarget lipidmaps:LMFA07090079 .
+    owl:annotatedSource lipidmaps:LMFA13040128 ;
+    owl:annotatedTarget lipidmaps:LMFA13000003 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-10"^^xsd:date ;
@@ -67680,28 +68021,106 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget lipidmaps:LMFA07090066 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
+    dcterms:date "2020-10-07"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM15247 ;
-    owl:annotatedTarget molmedb:MM00691 .
+    owl:annotatedSource lipidmaps:LMFA01031199 ;
+    owl:annotatedTarget lipidmaps:LMFA01060232 .
 
 [] a owl:Axiom ;
-    dcterms:date "2020-04-16"^^xsd:date ;
+    dcterms:date "2021-02-03"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011153 ;
-    owl:annotatedTarget lipidmaps:LMFA07090103 .
+    owl:annotatedSource lipidmaps:LMFA13040130 ;
+    owl:annotatedTarget lipidmaps:LMFA13000005 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-02-04"^^xsd:date ;
+    dcterms:date "2021-10-25"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM16778 ;
-    owl:annotatedTarget molmedb:MM01272 .
+    owl:annotatedSource lipidmaps:LMGL00000148 ;
+    owl:annotatedTarget lipidmaps:LMGL06010005 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011144 ;
+    owl:annotatedTarget lipidmaps:LMFA07090094 .
 
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470934 ;
-    owl:annotatedTarget molmedb:MM00332 .
+    owl:annotatedSource molmedb:MM470924 ;
+    owl:annotatedTarget molmedb:MM00438 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011143 ;
+    owl:annotatedTarget lipidmaps:LMFA07090093 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011133 ;
+    owl:annotatedTarget lipidmaps:LMFA07090083 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA13040030 ;
+    owl:annotatedTarget lipidmaps:LMFA13000002 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM01551 ;
+    owl:annotatedTarget molmedb:MM01435 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011135 ;
+    owl:annotatedTarget lipidmaps:LMFA07090085 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA13040131 ;
+    owl:annotatedTarget lipidmaps:LMFA13000006 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-07"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07010688 ;
+    owl:annotatedTarget lipidmaps:LMFA07090150 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011137 ;
+    owl:annotatedTarget lipidmaps:LMFA07090087 .
+
+[] a owl:Axiom ;
+    dcterms:date "2011-06-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource omim:309150 ;
+    owl:annotatedTarget omim:614279 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-08"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011106 ;
+    owl:annotatedTarget lipidmaps:LMFA07090156 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470939 ;
+    owl:annotatedTarget molmedb:MM00335 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-09-13"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST05010006 ;
+    owl:annotatedTarget lipidmaps:LMST05010027 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-11-02"^^xsd:date ;
@@ -67710,10 +68129,52 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget wikipathways:WP2703 .
 
 [] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470918 ;
+    owl:annotatedTarget molmedb:MM00598 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:RNASEN ;
+    owl:annotatedTarget hgnc.symbol:DROSHA .
+
+[] a owl:Axiom ;
     dcterms:date "2021-10-25"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
     owl:annotatedSource lipidmaps:LMGL00000145 ;
     owl:annotatedTarget lipidmaps:LMGL06010002 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA13040129 ;
+    owl:annotatedTarget lipidmaps:LMFA13000004 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470914 ;
+    owl:annotatedTarget molmedb:MM00009 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011126 ;
+    owl:annotatedTarget lipidmaps:LMFA07090076 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-25"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM16904 ;
+    owl:annotatedTarget molmedb:MM01275 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM15247 ;
+    owl:annotatedTarget molmedb:MM00691 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-10"^^xsd:date ;
@@ -67724,452 +68185,21 @@ IAO:0100001 a owl:AnnotationProperty ;
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470948 ;
-    owl:annotatedTarget molmedb:MM00455 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470940 ;
-    owl:annotatedTarget molmedb:MM00336 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-05-29"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP4862 ;
-    owl:annotatedTarget wikipathways:WP2863 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-10-25"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGL00000147 ;
-    owl:annotatedTarget lipidmaps:LMGL06010004 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011144 ;
-    owl:annotatedTarget lipidmaps:LMFA07090094 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:DOPEY1 ;
-    owl:annotatedTarget hgnc.symbol:DOP1A .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-09-13"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA02020014 ;
-    owl:annotatedTarget lipidmaps:LMFA02020206 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-11-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP4080 ;
-    owl:annotatedTarget wikipathways:WP4065 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-25"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM17500 ;
-    owl:annotatedTarget molmedb:MM00463 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK03000037 ;
-    owl:annotatedTarget lipidmaps:LMPK03000095 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-08"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011107 ;
-    owl:annotatedTarget lipidmaps:LMFA07090157 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-10-23"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPR01050019 ;
-    owl:annotatedTarget lipidmaps:LMPR0105050006 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470930 ;
-    owl:annotatedTarget molmedb:MM00330 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-28"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA10000007 ;
-    owl:annotatedTarget lipidmaps:LMFA10000011 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA13040131 ;
-    owl:annotatedTarget lipidmaps:LMFA13000006 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-08"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011106 ;
-    owl:annotatedTarget lipidmaps:LMFA07090156 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM00851 ;
-    owl:annotatedTarget molmedb:MM00524 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011117 ;
-    owl:annotatedTarget lipidmaps:LMFA07090067 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011134 ;
-    owl:annotatedTarget lipidmaps:LMFA07090084 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07010687 ;
-    owl:annotatedTarget lipidmaps:LMFA07090149 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011132 ;
-    owl:annotatedTarget lipidmaps:LMFA07090082 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011127 ;
-    owl:annotatedTarget lipidmaps:LMFA07090077 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM01364 ;
-    owl:annotatedTarget molmedb:MM01348 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA05000726 ;
-    owl:annotatedTarget lipidmaps:LMFA05000735 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470914 ;
-    owl:annotatedTarget molmedb:MM00009 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-08"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011108 ;
-    owl:annotatedTarget lipidmaps:LMFA07090158 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-01"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGP00000067 ;
-    owl:annotatedTarget lipidmaps:LMGP00000068 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA05000722 ;
-    owl:annotatedTarget lipidmaps:LMFA05000731 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-10-19"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGP14010015 ;
-    owl:annotatedTarget lipidmaps:LMGP14040001 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-01-11"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12110819 ;
-    owl:annotatedTarget lipidmaps:LMPK12113402 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK03000041 ;
-    owl:annotatedTarget lipidmaps:LMPK03000099 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-25"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM17096 ;
-    owl:annotatedTarget molmedb:MM01549 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-01-04"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12112225 ;
-    owl:annotatedTarget lipidmaps:LMPK12112124 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470937 ;
-    owl:annotatedTarget molmedb:MM00449 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-12-23"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12110642 ;
-    owl:annotatedTarget lipidmaps:LMPK12113403 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA13040030 ;
-    owl:annotatedTarget lipidmaps:LMFA13000002 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011136 ;
-    owl:annotatedTarget lipidmaps:LMFA07090086 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-08-23"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA01031174 ;
-    owl:annotatedTarget lipidmaps:LMPR04000041 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-01-21"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA03020057 ;
-    owl:annotatedTarget lipidmaps:LMFA03020056 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-10-19"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGP14010016 ;
-    owl:annotatedTarget lipidmaps:LMGP14040002 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:SEPT1 ;
-    owl:annotatedTarget hgnc.symbol:SEPTIN1 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM01551 ;
-    owl:annotatedTarget molmedb:MM01435 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-04"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM467514 ;
-    owl:annotatedTarget molmedb:MM01275 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011120 ;
-    owl:annotatedTarget lipidmaps:LMFA07090070 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA13040006 ;
-    owl:annotatedTarget lipidmaps:LMFA13000007 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470918 ;
-    owl:annotatedTarget molmedb:MM00598 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-12-23"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12010050 ;
-    owl:annotatedTarget lipidmaps:LMPK12010447 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011124 ;
-    owl:annotatedTarget lipidmaps:LMFA07090074 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-09"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011098 ;
-    owl:annotatedTarget lipidmaps:LMFA07090163 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-10-25"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMGL00000142 ;
-    owl:annotatedTarget lipidmaps:LMGL06010001 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-26"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST04010461 ;
-    owl:annotatedTarget lipidmaps:LMST05030020 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA05000725 ;
-    owl:annotatedTarget lipidmaps:LMFA05000734 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
     owl:annotatedSource molmedb:MM470938 ;
     owl:annotatedTarget molmedb:MM12580 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
+    dcterms:contributor orcid:0000-0001-8449-1318 ;
+    dcterms:date "2022-05-31"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA13040128 ;
-    owl:annotatedTarget lipidmaps:LMFA13000003 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM00652 ;
-    owl:annotatedTarget molmedb:MM12519 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA13040007 ;
-    owl:annotatedTarget lipidmaps:LMFA13000001 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470945 ;
-    owl:annotatedTarget molmedb:MM00453 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-12-23"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12010448 ;
-    owl:annotatedTarget lipidmaps:LMPK12010051 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-08"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011104 ;
-    owl:annotatedTarget lipidmaps:LMFA07090154 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011130 ;
-    owl:annotatedTarget lipidmaps:LMFA07090080 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-12-09"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12010047 ;
-    owl:annotatedTarget lipidmaps:LMPK12010446 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011131 ;
-    owl:annotatedTarget lipidmaps:LMFA07090081 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011125 ;
-    owl:annotatedTarget lipidmaps:LMFA07090075 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-09-13"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST01080092 ;
-    owl:annotatedTarget lipidmaps:LMST01080094 .
+    owl:annotatedSource wikipathways:WP311 ;
+    owl:annotatedTarget wikipathways:WP5175 .
 
 [] a owl:Axiom ;
     dcterms:date "2021-02-02"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA05000721 ;
-    owl:annotatedTarget lipidmaps:LMFA05000730 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-16"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011150 ;
-    owl:annotatedTarget lipidmaps:LMFA07090100 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470929 ;
-    owl:annotatedTarget molmedb:MM00441 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-10-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA01031199 ;
-    owl:annotatedTarget lipidmaps:LMFA01060232 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM01384 ;
-    owl:annotatedTarget molmedb:MM01305 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07010015 ;
-    owl:annotatedTarget lipidmaps:LMFA07090148 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470924 ;
-    owl:annotatedTarget molmedb:MM00438 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM01474 ;
-    owl:annotatedTarget molmedb:MM00349 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-10-23"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPR01050020 ;
-    owl:annotatedTarget lipidmaps:LMPR0105050005 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011135 ;
-    owl:annotatedTarget lipidmaps:LMFA07090085 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-11-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP3383 ;
-    owl:annotatedTarget wikipathways:WP5022 .
+    owl:annotatedSource lipidmaps:LMFA06000271 ;
+    owl:annotatedTarget lipidmaps:LMFA06000279 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-16"^^xsd:date ;
@@ -68178,88 +68208,10 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget lipidmaps:LMFA07090101 .
 
 [] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
+    dcterms:date "2020-08-08"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:WARS ;
-    owl:annotatedTarget hgnc.symbol:WARS1 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-12-09"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12010056 ;
-    owl:annotatedTarget lipidmaps:LMPK12010450 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07010688 ;
-    owl:annotatedTarget lipidmaps:LMFA07090150 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-16"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011148 ;
-    owl:annotatedTarget lipidmaps:LMFA07090098 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM11343 ;
-    owl:annotatedTarget molmedb:MM01522 .
-
-[] a owl:Axiom ;
-    dcterms:date "2011-06-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource omim:309150 ;
-    owl:annotatedTarget omim:614279 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK03000036 ;
-    owl:annotatedTarget lipidmaps:LMPK03000094 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:OTX3 ;
-    owl:annotatedTarget hgnc.symbol:DMBX1 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011141 ;
-    owl:annotatedTarget lipidmaps:LMFA07090091 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470947 ;
-    owl:annotatedTarget molmedb:MM00454 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK03000042 ;
-    owl:annotatedTarget lipidmaps:LMPK03000100 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK03000038 ;
-    owl:annotatedTarget lipidmaps:LMPK03000096 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011137 ;
-    owl:annotatedTarget lipidmaps:LMFA07090087 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470919 ;
-    owl:annotatedTarget molmedb:MM00600 .
+    owl:annotatedSource lipidmaps:LMFA07011104 ;
+    owl:annotatedTarget lipidmaps:LMFA07090154 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-09-29"^^xsd:date ;
@@ -68268,46 +68220,22 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget lipidmaps:LMST04010457 .
 
 [] a owl:Axiom ;
-    dcterms:date "2022-01-21"^^xsd:date ;
+    dcterms:date "2020-08-08"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA03020051 ;
-    owl:annotatedTarget lipidmaps:LMFA03020055 .
+    owl:annotatedSource lipidmaps:LMFA07011107 ;
+    owl:annotatedTarget lipidmaps:LMFA07090157 .
 
 [] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
+    dcterms:date "2021-02-04"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470942 ;
-    owl:annotatedTarget molmedb:MM00631 .
+    owl:annotatedSource molmedb:MM16778 ;
+    owl:annotatedTarget molmedb:MM01272 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-01-25"^^xsd:date ;
+    dcterms:date "2020-04-10"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM16904 ;
-    owl:annotatedTarget molmedb:MM01275 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470946 ;
-    owl:annotatedTarget molmedb:MM00339 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM01302 ;
-    owl:annotatedTarget molmedb:MM00676 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470944 ;
-    owl:annotatedTarget molmedb:MM00338 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-20"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST04030240 ;
-    owl:annotatedTarget lipidmaps:LMST01010461 .
+    owl:annotatedSource lipidmaps:LMFA07011130 ;
+    owl:annotatedTarget lipidmaps:LMFA07090080 .
 
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
@@ -68316,112 +68244,28 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget molmedb:MM00329 .
 
 [] a owl:Axiom ;
-    dcterms:date "2020-06-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP4869 ;
-    owl:annotatedTarget wikipathways:WP2861 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK03000039 ;
-    owl:annotatedTarget lipidmaps:LMPK03000097 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011126 ;
-    owl:annotatedTarget lipidmaps:LMFA07090076 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011146 ;
-    owl:annotatedTarget lipidmaps:LMFA07090096 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011138 ;
-    owl:annotatedTarget lipidmaps:LMFA07090088 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM00450 ;
-    owl:annotatedTarget molmedb:MM12580 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA13040130 ;
-    owl:annotatedTarget lipidmaps:LMFA13000005 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-25"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM17423 ;
-    owl:annotatedTarget molmedb:MM01370 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK03000040 ;
-    owl:annotatedTarget lipidmaps:LMPK03000098 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:CASC4 ;
-    owl:annotatedTarget hgnc.symbol:GOLM2 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470932 ;
-    owl:annotatedTarget molmedb:MM00716 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA05000724 ;
-    owl:annotatedTarget lipidmaps:LMFA05000733 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011143 ;
-    owl:annotatedTarget lipidmaps:LMFA07090093 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-10-30"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP237 ;
-    owl:annotatedTarget wikipathways:WP4523 .
-
-[] a owl:Axiom ;
     dcterms:date "2021-09-13"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
     owl:annotatedSource lipidmaps:LMST01070013 ;
     owl:annotatedTarget lipidmaps:LMST01070004 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-08-04"^^xsd:date ;
+    dcterms:date "2021-08-16"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST01040198 ;
-    owl:annotatedTarget lipidmaps:LMST01040206 .
+    owl:annotatedSource lipidmaps:LMFA07050235 ;
+    owl:annotatedTarget lipidmaps:LMFA07050388 .
 
 [] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
+    dcterms:date "2021-02-03"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011118 ;
-    owl:annotatedTarget lipidmaps:LMFA07090068 .
+    owl:annotatedSource lipidmaps:LMFA13040006 ;
+    owl:annotatedTarget lipidmaps:LMFA13000007 .
 
 [] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
+    dcterms:date "2021-02-03"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011111 ;
-    owl:annotatedTarget lipidmaps:LMFA07090161 .
+    owl:annotatedSource lipidmaps:LMPK03000041 ;
+    owl:annotatedTarget lipidmaps:LMPK03000099 .
 
 [] a owl:Axiom ;
     dcterms:date "2021-01-15"^^xsd:date ;
@@ -68432,98 +68276,8 @@ IAO:0100001 a owl:AnnotationProperty ;
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470920 ;
-    owl:annotatedTarget molmedb:MM00437 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-09-13"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST01010215 ;
-    owl:annotatedTarget lipidmaps:LMST04030228 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-09-13"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST05010037 ;
-    owl:annotatedTarget lipidmaps:LMST05010004 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-08-16"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07050266 ;
-    owl:annotatedTarget lipidmaps:LMFA07050296 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011112 ;
-    owl:annotatedTarget lipidmaps:LMFA07090162 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:MARCH1 ;
-    owl:annotatedTarget hgnc.symbol:MARCHF1 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-05-20"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMSP01080015 ;
-    owl:annotatedTarget lipidmaps:LMSP05010118 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011142 ;
-    owl:annotatedTarget lipidmaps:LMFA07090092 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011145 ;
-    owl:annotatedTarget lipidmaps:LMFA07090095 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011110 ;
-    owl:annotatedTarget lipidmaps:LMFA07090160 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-01-15"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM15149 ;
-    owl:annotatedTarget molmedb:MM00854 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470915 ;
-    owl:annotatedTarget molmedb:MM00036 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-03"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:RNASEN ;
-    owl:annotatedTarget hgnc.symbol:DROSHA .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-08-16"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07050235 ;
-    owl:annotatedTarget lipidmaps:LMFA07050388 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011123 ;
-    owl:annotatedTarget lipidmaps:LMFA07090073 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470943 ;
-    owl:annotatedTarget molmedb:MM00451 .
+    owl:annotatedSource molmedb:MM470929 ;
+    owl:annotatedTarget molmedb:MM00441 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-10"^^xsd:date ;
@@ -68532,76 +68286,82 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget lipidmaps:LMFA07090097 .
 
 [] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
+    dcterms:date "2022-08-23"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470922 ;
-    owl:annotatedTarget molmedb:MM00074 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-12-14"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA03020075 ;
-    owl:annotatedTarget lipidmaps:LMFA03020002 .
-
-[] a owl:Axiom ;
-    dcterms:date "2021-02-02"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA06000271 ;
-    owl:annotatedTarget lipidmaps:LMFA06000279 .
+    owl:annotatedSource lipidmaps:LMFA01031174 ;
+    owl:annotatedTarget lipidmaps:LMPR04000041 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-10"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011133 ;
-    owl:annotatedTarget lipidmaps:LMFA07090083 .
-
-[] a owl:Axiom ;
-    dcterms:date "2022-05-18"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470936 ;
-    owl:annotatedTarget molmedb:MM00078 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-08-07"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07010691 ;
-    owl:annotatedTarget lipidmaps:LMFA07090153 .
+    owl:annotatedSource lipidmaps:LMFA07011117 ;
+    owl:annotatedTarget lipidmaps:LMFA07090067 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-08-03"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource hgnc.symbol:CARS ;
-    owl:annotatedTarget hgnc.symbol:CARS1 .
-
-[] a owl:Axiom ;
-    dcterms:date "2020-04-10"^^xsd:date ;
-    owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011121 ;
-    owl:annotatedTarget lipidmaps:LMFA07090071 .
+    owl:annotatedSource hgnc.symbol:DOPEY1 ;
+    owl:annotatedTarget hgnc.symbol:DOP1A .
 
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470925 ;
-    owl:annotatedTarget molmedb:MM00327 .
+    owl:annotatedSource molmedb:MM470934 ;
+    owl:annotatedTarget molmedb:MM00332 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-10"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011128 ;
-    owl:annotatedTarget lipidmaps:LMFA07090078 .
+    owl:annotatedSource lipidmaps:LMFA07011134 ;
+    owl:annotatedTarget lipidmaps:LMFA07090084 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-16"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011149 ;
+    owl:annotatedTarget lipidmaps:LMFA07090099 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470917 ;
+    owl:annotatedTarget molmedb:MM00597 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-08-07"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07010690 ;
-    owl:annotatedTarget lipidmaps:LMFA07090152 .
+    owl:annotatedSource lipidmaps:LMFA07011111 ;
+    owl:annotatedTarget lipidmaps:LMFA07090161 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-07"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011112 ;
+    owl:annotatedTarget lipidmaps:LMFA07090162 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470948 ;
+    owl:annotatedTarget molmedb:MM00455 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:TMEM206 ;
+    owl:annotatedTarget hgnc.symbol:PACC1 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-10"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07011139 ;
-    owl:annotatedTarget lipidmaps:LMFA07090089 .
+    owl:annotatedSource lipidmaps:LMFA07011118 ;
+    owl:annotatedTarget lipidmaps:LMFA07090068 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-12-23"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12010448 ;
+    owl:annotatedTarget lipidmaps:LMPK12010051 .
 
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
@@ -68610,22 +68370,154 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget molmedb:MM00325 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-02-03"^^xsd:date ;
+    dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA13040129 ;
-    owl:annotatedTarget lipidmaps:LMFA13000004 .
+    owl:annotatedSource molmedb:MM470932 ;
+    owl:annotatedTarget molmedb:MM00716 .
 
 [] a owl:Axiom ;
-    dcterms:date "2022-01-13"^^xsd:date ;
+    dcterms:date "2020-05-20"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMSL03001301 ;
-    owl:annotatedTarget lipidmaps:LMSL03001272 .
+    owl:annotatedSource lipidmaps:LMSP01080015 ;
+    owl:annotatedTarget lipidmaps:LMSP05010118 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-04-29"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMGP01050137 ;
+    owl:annotatedTarget lipidmaps:LMGP01050035 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM00652 ;
+    owl:annotatedTarget molmedb:MM12519 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:CASC4 ;
+    owl:annotatedTarget hgnc.symbol:GOLM2 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM01302 ;
+    owl:annotatedTarget molmedb:MM00676 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-07"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07010014 ;
+    owl:annotatedTarget lipidmaps:LMFA07090147 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-08-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource pubchem.compound:169508 ;
+    owl:annotatedTarget pubchem.compound:135398702 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA05000724 ;
+    owl:annotatedTarget lipidmaps:LMFA05000733 .
 
 [] a owl:Axiom ;
     dcterms:date "2020-04-10"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
     owl:annotatedSource lipidmaps:LMFA07011115 ;
     owl:annotatedTarget lipidmaps:LMFA07090065 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011139 ;
+    owl:annotatedTarget lipidmaps:LMFA07090089 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-07"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07010689 ;
+    owl:annotatedTarget lipidmaps:LMFA07090151 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011141 ;
+    owl:annotatedTarget lipidmaps:LMFA07090091 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470940 ;
+    owl:annotatedTarget molmedb:MM00336 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-07"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07010015 ;
+    owl:annotatedTarget lipidmaps:LMFA07090148 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-10-25"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMGL00000146 ;
+    owl:annotatedTarget lipidmaps:LMGL06010003 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470936 ;
+    owl:annotatedTarget molmedb:MM00078 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-05-29"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource wikipathways:WP4862 ;
+    owl:annotatedTarget wikipathways:WP2863 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-10-30"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource wikipathways:WP237 ;
+    owl:annotatedTarget wikipathways:WP4523 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM01364 ;
+    owl:annotatedTarget molmedb:MM01348 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-01-11"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12110819 ;
+    owl:annotatedTarget lipidmaps:LMPK12113402 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-09"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011098 ;
+    owl:annotatedTarget lipidmaps:LMFA07090163 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-04"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM467580 ;
+    owl:annotatedTarget molmedb:MM01370 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-11-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource wikipathways:WP3383 ;
+    owl:annotatedTarget wikipathways:WP5022 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA05000725 ;
+    owl:annotatedTarget lipidmaps:LMFA05000734 .
 
 [] a owl:Axiom ;
     dcterms:date "2021-02-01"^^xsd:date ;
@@ -68636,45 +68528,122 @@ IAO:0100001 a owl:AnnotationProperty ;
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM470928 ;
-    owl:annotatedTarget molmedb:MM00440 .
+    owl:annotatedSource molmedb:MM470944 ;
+    owl:annotatedTarget molmedb:MM00338 .
 
 [] a owl:Axiom ;
-    dcterms:date "2022-01-05"^^xsd:date ;
+    dcterms:date "2020-08-07"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMPK12111804 ;
-    owl:annotatedTarget lipidmaps:LMPK12111950 .
+    owl:annotatedSource lipidmaps:LMFA07010687 ;
+    owl:annotatedTarget lipidmaps:LMFA07090149 .
 
 [] a owl:Axiom ;
-    dcterms:contributor orcid:0000-0001-8449-1318 ;
-    dcterms:date "2022-05-31"^^xsd:date ;
+    dcterms:date "2021-02-04"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource wikipathways:WP311 ;
-    owl:annotatedTarget wikipathways:WP5175 .
+    owl:annotatedSource molmedb:MM467514 ;
+    owl:annotatedTarget molmedb:MM01275 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011121 ;
+    owl:annotatedTarget lipidmaps:LMFA07090071 .
 
 [] a owl:Axiom ;
     dcterms:date "2021-09-13"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMST05010006 ;
-    owl:annotatedTarget lipidmaps:LMST05010027 .
+    owl:annotatedSource lipidmaps:LMFA02020014 ;
+    owl:annotatedTarget lipidmaps:LMFA02020206 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-02-17"^^xsd:date ;
+    dcterms:date "2020-06-03"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM467581 ;
-    owl:annotatedTarget molmedb:MM17421 .
+    owl:annotatedSource wikipathways:WP4869 ;
+    owl:annotatedTarget wikipathways:WP2861 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-01-20"^^xsd:date ;
+    dcterms:date "2022-05-18"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM16926 ;
-    owl:annotatedTarget molmedb:MM00449 .
+    owl:annotatedSource molmedb:MM470943 ;
+    owl:annotatedTarget molmedb:MM00451 .
 
 [] a owl:Axiom ;
-    dcterms:date "2021-01-26"^^xsd:date ;
+    dcterms:date "2021-02-03"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource molmedb:MM133940 ;
-    owl:annotatedTarget molmedb:MM16896 .
+    owl:annotatedSource lipidmaps:LMPK03000039 ;
+    owl:annotatedTarget lipidmaps:LMPK03000097 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:MARCH1 ;
+    owl:annotatedTarget hgnc.symbol:MARCHF1 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011123 ;
+    owl:annotatedTarget lipidmaps:LMFA07090073 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011129 ;
+    owl:annotatedTarget lipidmaps:LMFA07090079 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470915 ;
+    owl:annotatedTarget molmedb:MM00036 .
+
+[] a owl:Axiom ;
+    dcterms:date "2024-08-08"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource wikipathways:WP4629 ;
+    owl:annotatedTarget wikipathways:WP4628 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK03000042 ;
+    owl:annotatedTarget lipidmaps:LMPK03000100 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-12-09"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12010047 ;
+    owl:annotatedTarget lipidmaps:LMPK12010446 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA05000721 ;
+    owl:annotatedTarget lipidmaps:LMFA05000730 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK03000038 ;
+    owl:annotatedTarget lipidmaps:LMPK03000096 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK03000040 ;
+    owl:annotatedTarget lipidmaps:LMPK03000098 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011132 ;
+    owl:annotatedTarget lipidmaps:LMFA07090082 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-12-14"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA03020075 ;
+    owl:annotatedTarget lipidmaps:LMFA03020002 .
 
 [] a owl:Axiom ;
     dcterms:date "2022-05-18"^^xsd:date ;
@@ -68683,8 +68652,488 @@ IAO:0100001 a owl:AnnotationProperty ;
     owl:annotatedTarget molmedb:MM00627 .
 
 [] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011138 ;
+    owl:annotatedTarget lipidmaps:LMFA07090088 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA13040007 ;
+    owl:annotatedTarget lipidmaps:LMFA13000001 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470925 ;
+    owl:annotatedTarget molmedb:MM00327 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-01-13"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMSL03001301 ;
+    owl:annotatedTarget lipidmaps:LMSL03001272 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-25"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM17423 ;
+    owl:annotatedTarget molmedb:MM01370 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470930 ;
+    owl:annotatedTarget molmedb:MM00330 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-25"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM17500 ;
+    owl:annotatedTarget molmedb:MM00463 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011142 ;
+    owl:annotatedTarget lipidmaps:LMFA07090092 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-16"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011153 ;
+    owl:annotatedTarget lipidmaps:LMFA07090103 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-25"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM17096 ;
+    owl:annotatedTarget molmedb:MM01549 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011131 ;
+    owl:annotatedTarget lipidmaps:LMFA07090081 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-12-09"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12010111 ;
+    owl:annotatedTarget lipidmaps:LMPK12010452 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-10-25"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMGL00000142 ;
+    owl:annotatedTarget lipidmaps:LMGL06010001 .
+
+[] a owl:Axiom ;
+    dcterms:date "2019-07-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA08030027 ;
+    owl:annotatedTarget lipidmaps:LMFA08030002 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011124 ;
+    owl:annotatedTarget lipidmaps:LMFA07090074 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011146 ;
+    owl:annotatedTarget lipidmaps:LMFA07090096 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011119 ;
+    owl:annotatedTarget lipidmaps:LMFA07090069 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM01384 ;
+    owl:annotatedTarget molmedb:MM01305 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:TWISTNB ;
+    owl:annotatedTarget hgnc.symbol:POLR1F .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM00851 ;
+    owl:annotatedTarget molmedb:MM00524 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011120 ;
+    owl:annotatedTarget lipidmaps:LMFA07090070 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470928 ;
+    owl:annotatedTarget molmedb:MM00440 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:OTX3 ;
+    owl:annotatedTarget hgnc.symbol:DMBX1 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA05000723 ;
+    owl:annotatedTarget lipidmaps:LMFA05000732 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011128 ;
+    owl:annotatedTarget lipidmaps:LMFA07090078 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-08-04"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST01080077 ;
+    owl:annotatedTarget lipidmaps:LMST01080006 .
+
+[] a owl:Axiom ;
     dcterms:date "2020-08-07"^^xsd:date ;
     owl:annotatedProperty IAO:0100001 ;
-    owl:annotatedSource lipidmaps:LMFA07010689 ;
-    owl:annotatedTarget lipidmaps:LMFA07090151 .
+    owl:annotatedSource lipidmaps:LMFA07010691 ;
+    owl:annotatedTarget lipidmaps:LMFA07090153 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-08-16"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07050266 ;
+    owl:annotatedTarget lipidmaps:LMFA07050296 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-01-21"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA03020057 ;
+    owl:annotatedTarget lipidmaps:LMFA03020056 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-20"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM16926 ;
+    owl:annotatedTarget molmedb:MM00449 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-01-05"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12111804 ;
+    owl:annotatedTarget lipidmaps:LMPK12111950 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-09-13"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST05010037 ;
+    owl:annotatedTarget lipidmaps:LMST05010004 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-01-21"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA03020051 ;
+    owl:annotatedTarget lipidmaps:LMFA03020055 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-10-19"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMGP14010016 ;
+    owl:annotatedTarget lipidmaps:LMGP14040002 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470947 ;
+    owl:annotatedTarget molmedb:MM00454 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM15149 ;
+    owl:annotatedTarget molmedb:MM00854 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011145 ;
+    owl:annotatedTarget lipidmaps:LMFA07090095 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-11-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource wikipathways:WP4080 ;
+    owl:annotatedTarget wikipathways:WP4065 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-07"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011110 ;
+    owl:annotatedTarget lipidmaps:LMFA07090160 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM11343 ;
+    owl:annotatedTarget molmedb:MM01522 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-10-25"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMGL00000147 ;
+    owl:annotatedTarget lipidmaps:LMGL06010004 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-06-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource wikipathways:WP4929 ;
+    owl:annotatedTarget wikipathways:WP4928 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-16"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011150 ;
+    owl:annotatedTarget lipidmaps:LMFA07090100 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-12-23"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12110642 ;
+    owl:annotatedTarget lipidmaps:LMPK12113403 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470945 ;
+    owl:annotatedTarget molmedb:MM00453 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-08"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011108 ;
+    owl:annotatedTarget lipidmaps:LMFA07090158 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-26"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST04010461 ;
+    owl:annotatedTarget lipidmaps:LMST05030020 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470946 ;
+    owl:annotatedTarget molmedb:MM00339 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK03000037 ;
+    owl:annotatedTarget lipidmaps:LMPK03000095 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:CARS ;
+    owl:annotatedTarget hgnc.symbol:CARS1 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-01-04"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12112233 ;
+    owl:annotatedTarget lipidmaps:LMPK12112193 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-29"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST01010091 ;
+    owl:annotatedTarget lipidmaps:LMST01010148 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-20"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST04030240 ;
+    owl:annotatedTarget lipidmaps:LMST01010461 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011122 ;
+    owl:annotatedTarget lipidmaps:LMFA07090072 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-01-04"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12112225 ;
+    owl:annotatedTarget lipidmaps:LMPK12112124 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-10-23"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPR01050019 ;
+    owl:annotatedTarget lipidmaps:LMPR0105050006 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-09-13"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST01010215 ;
+    owl:annotatedTarget lipidmaps:LMST04030228 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-12-09"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12010056 ;
+    owl:annotatedTarget lipidmaps:LMPK12010450 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM00450 ;
+    owl:annotatedTarget molmedb:MM12580 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011136 ;
+    owl:annotatedTarget lipidmaps:LMFA07090086 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470922 ;
+    owl:annotatedTarget molmedb:MM00074 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:WARS ;
+    owl:annotatedTarget hgnc.symbol:WARS1 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-10-23"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPR01050020 ;
+    owl:annotatedTarget lipidmaps:LMPR0105050005 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011127 ;
+    owl:annotatedTarget lipidmaps:LMFA07090077 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-08-04"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST01040198 ;
+    owl:annotatedTarget lipidmaps:LMST01040206 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-28"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA10000007 ;
+    owl:annotatedTarget lipidmaps:LMFA10000011 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470919 ;
+    owl:annotatedTarget molmedb:MM00600 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-10-19"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMGP14010015 ;
+    owl:annotatedTarget lipidmaps:LMGP14040001 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-01-15"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM01474 ;
+    owl:annotatedTarget molmedb:MM00349 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-08"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011105 ;
+    owl:annotatedTarget lipidmaps:LMFA07090155 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA05000726 ;
+    owl:annotatedTarget lipidmaps:LMFA05000735 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470920 ;
+    owl:annotatedTarget molmedb:MM00437 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470937 ;
+    owl:annotatedTarget molmedb:MM00449 .
+
+[] a owl:Axiom ;
+    dcterms:date "2022-05-18"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource molmedb:MM470942 ;
+    owl:annotatedTarget molmedb:MM00631 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-10"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011125 ;
+    owl:annotatedTarget lipidmaps:LMFA07090075 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-12-23"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMPK12010050 ;
+    owl:annotatedTarget lipidmaps:LMPK12010447 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-02"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA05000722 ;
+    owl:annotatedTarget lipidmaps:LMFA05000731 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-02-01"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMGP00000067 ;
+    owl:annotatedTarget lipidmaps:LMGP00000068 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-04-16"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMFA07011148 ;
+    owl:annotatedTarget lipidmaps:LMFA07090098 .
+
+[] a owl:Axiom ;
+    dcterms:date "2020-08-03"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource hgnc.symbol:SEPT1 ;
+    owl:annotatedTarget hgnc.symbol:SEPTIN1 .
+
+[] a owl:Axiom ;
+    dcterms:date "2021-09-13"^^xsd:date ;
+    owl:annotatedProperty IAO:0100001 ;
+    owl:annotatedSource lipidmaps:LMST01080092 ;
+    owl:annotatedTarget lipidmaps:LMST01080094 .
 
